@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Application</string>
+    <string name = "view_text">text_hello</string>
+    <string name = "button_one">第一种显示intent描述方式</string>
+    <string name = "button_two">第二种显示intent描述方式</string>
+    <string name = "button_three">第三种显示intent描述方式</string>
+	<string name = "button_four">第四中显示intent描述方式</string>
+	<string name = "text_welcome">欢迎来到此页面！</string>
+</resources>
